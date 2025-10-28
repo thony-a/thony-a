@@ -21,7 +21,8 @@
 
 ###
 
-<p align="left">Me especializo en Python para la creación de sistemas y seguridad, con el objetivo en cumplir con los requerimientos mediante herramientas tecnológicas.</p>
+<p align="left">Programador Backend y Analista de Datos, manejo herramientas como Python, SQL y ofimática para crear sistemas,
+automatizar procesos y generar información visual útil para la toma de decisiones.</p>
 
 ###
 

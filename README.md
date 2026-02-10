@@ -21,8 +21,7 @@
 
 ###
 
-<p align="left">Programador Backend y Analista de Datos, manejo herramientas como Python, SQL y ofimática para crear sistemas,
-automatizar procesos y generar información visual útil para la toma de decisiones.</p>
+<p align="left">Desarrollador BackEnd con experiencia en monitoreo y soporte de sistemas.</p>
 
 ###
 

@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Desarrollador BackEnd con experiencia en monitoreo y soporte de sistemas.</p>
+<p align="left">Desarrollador enfocado en sistemas escalables, APIs y seguridad informática.</p>
 
 ###
 

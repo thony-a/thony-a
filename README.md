@@ -1,58 +1,59 @@
-<img align="left" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<h1 align="center">Hi 👋, I'm Anthony Palma</h1>
+<h3 align="center">Software Developer | Backend | APIs | SQL</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thony-a&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+---
 
-###
+## 🚀 About Me
+💻 Software developer focused on backend systems, APIs and data processing  
+⚙️ Experience working with production systems, logs analysis and SQL optimization  
+🛠️ Strong in debugging, system analysis and problem solving  
+☁️ Experience monitoring databases in cloud environments (Azure)  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=palmaant.palmaant&"  />
-</div>
+---
 
-###
+## 🧠 What I Do
+- Backend development (Java / Python)
+- REST API design and integration
+- SQL queries and data processing
+- Log analysis and troubleshooting
+- Process automation
 
-<h2 align="center">👋 Welcome to my workspace</h2>
+---
 
-###
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,linux,mysql,git,docker" />
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thony-a&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thony-a&theme=tokyonight" />
+</p>
 
-<p align="left">Desarrollador enfocado en sistemas escalables, APIs y seguridad informática.</p>
+---
 
-###
+## 📌 Featured Projects
+🔹 **Fintech Core Banking API**  
+Backend system for managing financial transactions and data  
 
-<h3 align="left">🛠 Language and tools</h3>
+🔹 **Python SQL API**  
+API for querying and automating data processes  
 
-###
+🔹 **Log Monitoring System**  
+Tool for analyzing logs and detecting system issues  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=palmaant&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/thonya">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>

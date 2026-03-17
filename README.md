@@ -39,18 +39,6 @@
 
 ---
 
-## 📌 Featured Projects
-🔹 **Fintech Core Banking API**  
-Backend system for managing financial transactions and data  
-
-🔹 **Python SQL API**  
-API for querying and automating data processes  
-
-🔹 **Log Monitoring System**  
-Tool for analyzing logs and detecting system issues  
-
----
-
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/thonya">

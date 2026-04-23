@@ -1,32 +1,36 @@
-<h1 align="center">Hi 👋, I'm Anthony Palma</h1>
-<h3 align="center">Software Developer | Backend | APIs | SQL</h3>
+<h1 align="center">Hola 👋, soy Anthony Palma</h1>
+<h3 align="center">Desarrollador de Software | Backend | APIs | DevOps</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thony-a&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=thony-a&label=Visitas%20al%20perfil&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-💻 Software developer focused on backend systems, APIs and data processing  
-⚙️ Experience working with production systems, logs analysis and SQL optimization  
-🛠️ Strong in debugging, system analysis and problem solving  
-☁️ Experience monitoring databases in cloud environments (Azure)  
+## 🚀 Sobre mí
+💻 Desarrollador de software enfocado en sistemas backend, APIs y arquitectura web  
+⚙️ Experiencia en despliegue de aplicaciones en producción con Docker y servidores Linux  
+🛠️ Fuerte en análisis de sistemas, debugging y resolución de problemas  
+🧪 Conocimiento en pruebas, validación de sistemas y aseguramiento de calidad  
+📊 Experiencia en manejo y optimización de bases de datos  
 
 ---
 
-## 🧠 What I Do
-- Backend development (Java / Python)
-- REST API design and integration
-- SQL queries and data processing
-- Log analysis and troubleshooting
-- Process automation
+## 🧠 Qué hago
+- Desarrollo Backend (Python / Java)
+- Diseño e integración de APIs REST
+- Desarrollo Frontend moderno (Next.js / React)
+- Despliegue y configuración de aplicaciones (Docker, Nginx, VPS)
+- Modelado y consultas SQL
+- Testing y validación de funcionalidades
+- Análisis de sistemas y soporte técnico
+- Automatización de procesos
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,linux,mysql,git,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,linux,postgres,mysql,git,docker,nginx" />
 </p>
 
 ---
@@ -39,7 +43,7 @@
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Contacto
 <p align="center">
   <a href="https://linkedin.com/in/thonya">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
